@@ -1,11 +1,11 @@
 /* global describe, it, expect */
 
-var pkg = require('..');
+var opentsdb = require('..');
 
 describe('bixby-opentsdb', function() {
   
-  it('should export object', function() {
-    expect(pkg).to.be.an('object');
+  it('should export a function', function() {
+    expect(opentsdb).to.be.an('function');
   });
   
 });
