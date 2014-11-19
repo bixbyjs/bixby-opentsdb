@@ -24,6 +24,7 @@
   ],
   "main": "./lib",
   "dependencies": {
+    "bootable": "~0.2.4"
   },
   "devDependencies": {
     "mocha": "1.x.x",
