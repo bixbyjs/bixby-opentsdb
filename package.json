@@ -1,7 +1,7 @@
 {
   "name": "bixby-opentsdb",
   "version": "0.0.0",
-  "description": "TODO: No description specified",
+  "description": "OpenTSDB components for the Bixby framework.",
   "keywords": [
     "opentsdb"
   ],
